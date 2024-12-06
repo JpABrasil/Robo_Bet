@@ -9,5 +9,5 @@ Agente autônomo baseado 'a decidir' que decide a viabilidade de uma aposta espo
 *  João Pedro Alexandrino Brasil
 *  Bernardo Azstalos teixeira
 ## Origem dos Dados
-https://1xbet.whoscored.com/Regions/31/Tournaments/95/Seasons/10003/Stages/22961/PlayerStatistics/Brazil-Brasileir%C3%A3o-2024 -> Dados sobre Jogadores
-https://basedosdados.org/dataset/c861330e-bca2-474d-9073-bc70744a1b23?table=18835b0d-233e-4857-b454-1fa34a81b4fa -> Dados sobre partidas
+1. https://1xbet.whoscored.com/Regions/31/Tournaments/95/Seasons/10003/Stages/22961/PlayerStatistics/Brazil-Brasileir%C3%A3o-2024 -> Dados sobre Jogadores
+2. https://basedosdados.org/dataset/c861330e-bca2-474d-9073-bc70744a1b23?table=18835b0d-233e-4857-b454-1fa34a81b4fa -> Dados sobre partidas
